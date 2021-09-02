@@ -1,3 +1,3 @@
 struct MacSpanish_beta {
-    var text = "Hello, World!"
+    var versionIndex = 1
 }
